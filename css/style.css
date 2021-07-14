@@ -2043,7 +2043,7 @@ ul.timeline {
 
 
 #testimonials {
-	background:url(../images/parallax/testimonials.jpg) no-repeat;
+	background:url(../images/parallax/contact.jpg) no-repeat;
 }
 
 #testimonials {
@@ -2071,7 +2071,8 @@ ul.timeline {
 }
 
 #testimonials .desc {
-	font-size:19px;
+	font-size:28px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	line-height: 36px;
 	margin-bottom: 30px;
 	font-style: italic;
